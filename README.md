@@ -1,4 +1,4 @@
-This is a chatbot for vulnerable code that addresses common, repetitive queries sourced from GitHub comments, Gitter channels, and similar platforms to help new contributors onboard quickly. The chatbot will not only answer questions VulnerableCode but also guide newcomers in setting up the code locally, thereby reducing the load on maintainers.
+This is a chatbot for vulnerable code that addresses common, repetitive queries sourced from GitHub comments, Gitter channels, and similar platforms to help new contributors onboard quickly. The chatbot will not only answer questions but also guide newcomers in setting up the code locally, thereby reducing the load on maintainers.
 
 Key Benefits:
 
